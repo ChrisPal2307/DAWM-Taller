@@ -1,1 +1,2 @@
-# DAWM-Taller
+# Javascript - Requerimientos Asíncronos
+Christian Palma
