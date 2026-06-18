@@ -19,6 +19,6 @@ let getSalesCoffee = async () =>{
         return {success: false, body: error.message}
 
     }
-}
+};
 
-export{getSalesCoffee}
+export{getSalesCoffee};
